@@ -1,0 +1,63 @@
+.inputs {
+    padding-top: 40px;
+    border: 3px solid black;
+    padding-bottom: 40px;
+    margin-top: 100px;
+}
+
+/* .inps_block {
+    display: flex;
+    margin-bottom: 30px;
+    margin-left: 50px;
+} */
+.inp-add {
+    width: 50%;
+    height: 50px;
+    margin-left: 25px;
+}
+.btn-inps {
+    text-align: center;
+}
+.btn-add {
+    background-color: darkgray;
+    color: black;
+}
+.label_add {
+    margin-left: 25px;
+    margin-right: 5px;
+}
+.label_first {
+    margin-right: 5px;
+}
+.radio_inp {
+    height: 15px;
+}
+.add_block {
+    margin-bottom: 25px;
+}
+@media all and (max-width: 768px) {
+    .inputs {
+        width: 158%;
+    }
+}
+@media all and (max-width: 540px) {
+    .inputs {
+        width: 224%;
+    }
+}
+@media all and (max-width: 414px) {
+    .inputs {
+        width: 300%;
+    }
+}
+
+@media all and (max-width: 360px) {
+    .inputs {
+        width: 335%;
+    }
+}
+@media all and (max-width: 280px) {
+    .inputs {
+        width: 430%;
+    }
+}

@@ -1,0 +1,11 @@
+.list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  /* .MuiPagination-ul {
+      margin: 165px !important ;
+  } */
+  .MuiPagination-ul {
+      margin-bottom: 50px !important;
+  }
+  
